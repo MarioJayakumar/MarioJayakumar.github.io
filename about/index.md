@@ -6,19 +6,37 @@ date: 2017-05-03
 comments: false
 ---
     
-<center><b>Computer Science Student at the Universty of Maryland</b></center>
+<center><b></b></center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Interests
+* Software Development
+* Machine Learning
+* Data Visualization
+* Augmented Reality Development
+
+## Courses
+* Multivariable Calculus
+* Linear Algebra
+* Obection Oriented Programming II
+
+## Skills
+* Languages: Java, Pascal, C#, Python
+* Web Development: HTML, CSS, Javascript
+* Development Systems: Windows, Android, Unity
+
+## Projects
+* Visual Chemical Balancer
+*     Balances chemical equations and provides step by step solution
+* Tweet Analysis App
+*     Uses sentiment analysis and twitter API to produce a sentiment graph
+*     of any twitter user over the last year
+* Tron for AR
+*     Game for Microsoft Hololens that allows user to play Tron,
+*     anchored to any surface in the real world
+* University of Maryland Augmented Reality Club Website
+*     Helped create club's website'
+
+
 
 ## Preview
 
