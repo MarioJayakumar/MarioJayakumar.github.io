@@ -26,15 +26,15 @@ comments: false
 
 ## Projects
 * Visual Chemical Balancer
-*     Balances chemical equations and provides step by step solution
+/t     Balances chemical equations and provides step by step solution
 * Tweet Analysis App
-*     Uses sentiment analysis and twitter API to produce a sentiment graph
-*     of any twitter user over the last year
+/t     Uses sentiment analysis and twitter API to produce a sentiment graph
+/t     of any twitter user over the last year
 * Tron for AR
-*     Game for Microsoft Hololens that allows user to play Tron,
-*     anchored to any surface in the real world
+/t     Game for Microsoft Hololens that allows user to play Tron,
+/t     anchored to any surface in the real world
 * University of Maryland Augmented Reality Club Website
-*     Helped create club's website'
+/t     Helped create club's website'
 
 
 
