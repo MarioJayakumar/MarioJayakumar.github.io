@@ -9,7 +9,7 @@ comments: false
 <center><b></b></center>
 
 ## Education
-**University of Maryland, College Park**
+**University of Maryland, College Park**  
 *Bachelor of Science, Computer Science*              May 2020
 
 ## Interests
