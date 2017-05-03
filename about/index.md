@@ -25,18 +25,21 @@ comments: false
 * Development Systems: Windows, Android, Unity
 
 ## Projects
-* Visual Chemical Balancer
-/t     Balances chemical equations and provides step by step solution
+* Visual Chemical Balancer (Android)
+\t     Balances chemical equations and provides step by step solution
 * Tweet Analysis App
-/t     Uses sentiment analysis and twitter API to produce a sentiment graph
-/t     of any twitter user over the last year
+\t     Uses sentiment analysis and twitter API to produce a sentiment graph
+\t     of any twitter user over the last year
 * Tron for AR
-/t     Game for Microsoft Hololens that allows user to play Tron,
-/t     anchored to any surface in the real world
+\t     Game for Microsoft Hololens that allows user to play Tron,
+\t     anchored to any surface in the real world
 * University of Maryland Augmented Reality Club Website
-/t     Helped create club's website'
+\t     Helped create club's website'
 
-
+## Involvements
+* Augmented Reality Club (Web Dev Team and Tutorial Coordinator)
+\t   Organize tutorial events for club so new members can learn AR Development
+\t   Create and maintain club website
 
 ## Preview
 
