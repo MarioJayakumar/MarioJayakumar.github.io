@@ -4,7 +4,7 @@ bio:                'Computer Scientist'
 description:        "Computer Science student at the University of Maryland"
 reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/prof.jpg'
+logo:               'assets/img/prof_copy.jpg'
 background:         'assets/img/dubai_skyline.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
