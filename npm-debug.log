@@ -18,41 +18,41 @@
 11 silly cache add   escapedName: 'particles.js',
 11 silly cache add   name: null,
 11 silly cache add   rawSpec: 'particles.js',
-11 silly cache add   spec: '/Users/mariojayakumar/Documents/School/CSProjects/MyWebsite/html5up-identity/particles.js',
+11 silly cache add   spec: '/Users/mariojayakumar/Documents/School/CSProjects/MyWebsite/MarioJayakumar.github.io/particles.js',
 11 silly cache add   type: 'local' }
 12 silly addLocalTarball shasum (computed) 6d41b2dfd94b9b8e8b96b95d1258f57efb11aada
-13 verbose addTmpTarball /Users/mariojayakumar/Documents/School/CSProjects/MyWebsite/html5up-identity/particles.js not in flight; adding
+13 verbose addTmpTarball /Users/mariojayakumar/Documents/School/CSProjects/MyWebsite/MarioJayakumar.github.io/particles.js not in flight; adding
 14 verbose correctMkdir /Users/mariojayakumar/.npm correctMkdir not in flight; initializing
-15 verbose addTmpTarball validating metadata from /Users/mariojayakumar/Documents/School/CSProjects/MyWebsite/html5up-identity/particles.js
-16 verbose tar unpack /Users/mariojayakumar/Documents/School/CSProjects/MyWebsite/html5up-identity/particles.js
-17 verbose tar unpacking to /var/folders/7d/0lncll050q14skq3wkwf57x80000gr/T/npm-16734-40b9bf39/unpack-587c36a0
-18 silly gentlyRm /var/folders/7d/0lncll050q14skq3wkwf57x80000gr/T/npm-16734-40b9bf39/unpack-587c36a0 is being purged
-19 verbose gentlyRm don't care about contents; nuking /var/folders/7d/0lncll050q14skq3wkwf57x80000gr/T/npm-16734-40b9bf39/unpack-587c36a0
+15 verbose addTmpTarball validating metadata from /Users/mariojayakumar/Documents/School/CSProjects/MyWebsite/MarioJayakumar.github.io/particles.js
+16 verbose tar unpack /Users/mariojayakumar/Documents/School/CSProjects/MyWebsite/MarioJayakumar.github.io/particles.js
+17 verbose tar unpacking to /var/folders/7d/0lncll050q14skq3wkwf57x80000gr/T/npm-16182-f9a27e70/unpack-23be3501
+18 silly gentlyRm /var/folders/7d/0lncll050q14skq3wkwf57x80000gr/T/npm-16182-f9a27e70/unpack-23be3501 is being purged
+19 verbose gentlyRm don't care about contents; nuking /var/folders/7d/0lncll050q14skq3wkwf57x80000gr/T/npm-16182-f9a27e70/unpack-23be3501
 20 silly gunzTarPerm modes [ '755', '644' ]
-21 error not a package /Users/mariojayakumar/Documents/School/CSProjects/MyWebsite/html5up-identity/particles.js
-22 error addLocal Could not install /Users/mariojayakumar/Documents/School/CSProjects/MyWebsite/html5up-identity/particles.js
-23 silly fetchPackageMetaData Error: ENOENT: no such file or directory, open '/var/folders/7d/0lncll050q14skq3wkwf57x80000gr/T/npm-16734-40b9bf39/unpack-587c36a0/package.json'
-23 silly fetchPackageMetaData  error for particles.js { Error: ENOENT: no such file or directory, open '/var/folders/7d/0lncll050q14skq3wkwf57x80000gr/T/npm-16734-40b9bf39/unpack-587c36a0/package.json'
+21 error not a package /Users/mariojayakumar/Documents/School/CSProjects/MyWebsite/MarioJayakumar.github.io/particles.js
+22 error addLocal Could not install /Users/mariojayakumar/Documents/School/CSProjects/MyWebsite/MarioJayakumar.github.io/particles.js
+23 silly fetchPackageMetaData Error: ENOENT: no such file or directory, open '/var/folders/7d/0lncll050q14skq3wkwf57x80000gr/T/npm-16182-f9a27e70/unpack-23be3501/package.json'
+23 silly fetchPackageMetaData  error for particles.js { Error: ENOENT: no such file or directory, open '/var/folders/7d/0lncll050q14skq3wkwf57x80000gr/T/npm-16182-f9a27e70/unpack-23be3501/package.json'
 23 silly fetchPackageMetaData   errno: -2,
 23 silly fetchPackageMetaData   code: 'ENOENT',
 23 silly fetchPackageMetaData   syscall: 'open',
-23 silly fetchPackageMetaData   path: '/var/folders/7d/0lncll050q14skq3wkwf57x80000gr/T/npm-16734-40b9bf39/unpack-587c36a0/package.json' }
+23 silly fetchPackageMetaData   path: '/var/folders/7d/0lncll050q14skq3wkwf57x80000gr/T/npm-16182-f9a27e70/unpack-23be3501/package.json' }
 24 silly rollbackFailedOptional Starting
 25 silly rollbackFailedOptional Finishing
 26 silly runTopLevelLifecycles Finishing
 27 silly install printInstalled
-28 verbose stack Error: ENOENT: no such file or directory, open '/var/folders/7d/0lncll050q14skq3wkwf57x80000gr/T/npm-16734-40b9bf39/unpack-587c36a0/package.json'
-29 verbose cwd /Users/mariojayakumar/Documents/School/CSProjects/MyWebsite/html5up-identity
+28 verbose stack Error: ENOENT: no such file or directory, open '/var/folders/7d/0lncll050q14skq3wkwf57x80000gr/T/npm-16182-f9a27e70/unpack-23be3501/package.json'
+29 verbose cwd /Users/mariojayakumar/Documents/School/CSProjects/MyWebsite/MarioJayakumar.github.io
 30 error Darwin 16.3.0
 31 error argv "/usr/local/Cellar/node/7.5.0/bin/node" "/usr/local/bin/npm" "install" "particles.js"
 32 error node v7.5.0
 33 error npm  v4.1.2
-34 error path /var/folders/7d/0lncll050q14skq3wkwf57x80000gr/T/npm-16734-40b9bf39/unpack-587c36a0/package.json
+34 error path /var/folders/7d/0lncll050q14skq3wkwf57x80000gr/T/npm-16182-f9a27e70/unpack-23be3501/package.json
 35 error code ENOENT
 36 error errno -2
 37 error syscall open
-38 error enoent ENOENT: no such file or directory, open '/var/folders/7d/0lncll050q14skq3wkwf57x80000gr/T/npm-16734-40b9bf39/unpack-587c36a0/package.json'
-39 error enoent ENOENT: no such file or directory, open '/var/folders/7d/0lncll050q14skq3wkwf57x80000gr/T/npm-16734-40b9bf39/unpack-587c36a0/package.json'
+38 error enoent ENOENT: no such file or directory, open '/var/folders/7d/0lncll050q14skq3wkwf57x80000gr/T/npm-16182-f9a27e70/unpack-23be3501/package.json'
+39 error enoent ENOENT: no such file or directory, open '/var/folders/7d/0lncll050q14skq3wkwf57x80000gr/T/npm-16182-f9a27e70/unpack-23be3501/package.json'
 39 error enoent This is most likely not a problem with npm itself
 39 error enoent and is related to npm not being able to find a file.
 40 verbose exit [ -2, true ]
