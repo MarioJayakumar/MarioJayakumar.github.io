@@ -7,6 +7,7 @@
 	text-decoration: none;
 	background: $white;
 	color: $color_shark;
+  z-index: 100;
 	&:hover {
 		box-shadow: 0 0 1px 0 rgba($color_shark,0.5);
 		color: $red;
@@ -16,12 +17,14 @@
 	padding: 10px;
 	margin: 10px;
 	@extend %btnextend;
+  z-index: 100;
 }
 .btn {
 	padding: 10px 18px;
 	@include font-rem(14);
 	margin: 4px auto;
 	@extend %btnextend;
+  z-index: 100;
 	&.btn-success {
       background-color: $success;
       color: $white;
@@ -75,6 +78,7 @@
     margin: 10px;
     @include font-rem(16);
     font-weight:300;
+    z-index: 100;
 }
 .post-list {
     .btn {
@@ -135,24 +139,29 @@ img {
 	border: 3px solid $white;
 	height: 150px;
 	width: 150px;
+  z-index: 100;
 }
 .author-photo {
     background-color: $white;
+    z-index: 100;
     z-index: 100;
 }
 .image-right {
     float: right;
     margin-left: 1em;
     margin-top: 0;
+    z-index: 100;
 }
 figure {
   margin: 0;
   padding-top: 10px;
   padding-bottom: 10px;
   @include clearfix();
+  z-index: 100;
   img {
     margin-bottom: 10px;
     @include rounded(4px);
+    z-index: 100;
   }
   &.half {
     @media only screen and (min-width: 62.5em) {
@@ -161,6 +170,7 @@ figure {
         float: left;
         margin-left: 1px;
         margin-right: 1px;
+        z-index: 100;
       }
       figcaption {
         clear: left;
@@ -174,6 +184,7 @@ figure {
         float: left;
         margin-left: 1px;
         margin-right: 1px;
+        z-index: 100;
       }
       figcaption {
         clear: left;
