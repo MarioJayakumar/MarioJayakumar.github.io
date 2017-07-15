@@ -98,6 +98,7 @@ hr {
 	height: 1px;
 	opacity: .8;
     margin: 1em 0;
+  z-index: 100;
 	background-image: -webkit-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
 	background-image: -moz-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
 	background-image: -ms-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
@@ -107,6 +108,7 @@ hr {
 		height: 1px;
 		opacity: .15;
 		margin: 1em 0;
+    z-index: 100;
 		background-image: -webkit-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
 		background-image: -moz-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
 		background-image: -ms-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
@@ -126,6 +128,7 @@ img {
     border: 0;
     -ms-interpolation-mode: bicubic;
     image-rendering: optimizeQuality;
+    z-index: 100;
 }
 .img-circle {
 	border-radius: 50%;
@@ -135,6 +138,7 @@ img {
 }
 .author-photo {
     background-color: $white;
+    z-index: 100;
 }
 .image-right {
     float: right;
