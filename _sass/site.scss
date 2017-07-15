@@ -38,8 +38,9 @@ z-index: 100;
 }
 .header {
 z-index: 100;
+top: 4px;
 	height: 100%;
-	position: relative;
+	position: absolute;
 	width: 100%;
 	min-height: 300px;
 	text-align: left;
