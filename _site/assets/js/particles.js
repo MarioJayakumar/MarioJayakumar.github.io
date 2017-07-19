@@ -126,6 +126,7 @@ var pJS = function(tag_id, params){
       mouse:{}
     },
     retina_detect: false,
+    background_color: #b61924,
     fn: {
       interact: {},
       modes: {},
