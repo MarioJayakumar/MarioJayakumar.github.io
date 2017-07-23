@@ -58,6 +58,7 @@ z-index: 100;
 	display: -webkit-box;
 	display: -webkit-flex;
 	display: -ms-flexbox;
+	pointer-events: none;
 	display: flex;
 	-webkit-box-flex: 0;
 	-webkit-flex: 0 1 auto;
