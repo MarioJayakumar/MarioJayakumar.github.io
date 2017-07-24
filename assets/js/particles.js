@@ -7,6 +7,9 @@
 /* v2.0.0
 /* ----------------------------------------------- */
 
+
+/*EDIT APP JS FOR REAL CHANGEs */
+
 var pJS = function(tag_id, params){
 
   var canvas_el = document.querySelector('#'+tag_id+' > .particles-js-canvas-el');
