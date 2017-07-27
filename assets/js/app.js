@@ -122,7 +122,7 @@ particlesJS('particles-js',
     }
   },
   "retina_detect": true,
-  "background-color": #007584
+  
 }
 
 );
