@@ -1,10 +1,13 @@
 ---
 layout: home
 ---
-# About Theme
+# Computer Science at University of Maryland
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+###What have I been doing lately?
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+Intern at Vigilant Technologies 
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+Creating this website
+
+[Check out my Github for all my projects](https://github.com/MarioJayakumar)
+
