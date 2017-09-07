@@ -3,7 +3,7 @@ layout: home
 ---
 # Computer Science at University of Maryland
 
-###What have I been doing lately?
+### What have I been doing lately?
 
 Intern at Vigilant Technologies 
 
