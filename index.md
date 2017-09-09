@@ -3,12 +3,13 @@ layout: home
 ---
 # Computer Science at University of Maryland
 
-#### What have I been doing lately?
-Intern at Vigilant Technologies 
+### What have I been doing lately?
 
-Creating this website
+#####Intern at Vigilant Technologies 
 
-[Check out my Github for all my projects](https://github.com/MarioJayakumar)
+#####Creating this website
 
-[Download my resume](https://mariojayakumar.com/assets/August2017Resume.docx)
+#####[Check out my Github for all my projects](https://github.com/MarioJayakumar)
+
+#####[Download my resume](https://mariojayakumar.com/assets/August2017Resume.docx)
 
