@@ -4,11 +4,11 @@ layout: home
 
 # What have I been doing lately?
 
-#### Intern at Vigilant Technologies 
+#### I will be interning at Morgan Stanley this summer!
 
-#### Creating this website
+#### Hack Princeton
 
 ### [Check out my Github for all my projects](https://github.com/MarioJayakumar)
 
-### [Download my resume](https://mariojayakumar.com/assets/August2017Resume.docx)
+### [Download my resume](https://mariojayakumar.com/assets/April2018Resume.docx)
 
