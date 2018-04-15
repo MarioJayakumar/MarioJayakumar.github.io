@@ -1,7 +1,7 @@
 ---
 title:  "Welcome to my Website"
 ---
-# What have I been doing lately?
+## What have I been doing lately?
 
 ### I will be interning at Morgan Stanley this summer!
 
