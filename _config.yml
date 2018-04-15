@@ -1,8 +1,8 @@
 # Site settings
 title: Mario Jayakumar
 description: 'University of Maryland, Computer Science'
-url: 'https://mariojayakumar.com'
-baseurl: '/'
+url: '//mariojayakumar.com'
+#baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
