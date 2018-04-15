@@ -1,65 +1,43 @@
-# Site
+# Site settings
 title: Mario Jayakumar
-description: Computer Science at University of Maryland
+description: 'University of Maryland, Computer Science'
 url: https://mariojayakumar.com
-logo: assets/img/dubai_skyline.jpg                                       # Site logo
-locale: en_US
+baseurl: '/jekyll-uno'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
 
-# Left Block Images
-background:
-  homepage: assets/img/dubai_skyline.jpg                           # this image will be shown on homepage's left block
-  post-list: assets/img/dubai_skyline.jpg             # this image will be shown on post list page
-  default-post: assets/img/dubai_skyline.jpg    # this image will be shown when post's front matter doesn't specify any image
+author:
+  name: 'Mario Jayakumar'
+  email: mariojay@terpmail.umd.edu
+  #twitter_username: joshgerdes
+  #facebook_username: joshgerdes
+  github_username:  MarioJayakumar
+  linkedin_username:  mario-jayakumar
 
-# Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
-kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
 sass:
-  sass_dir:         assets/_sass
-  style:            compressed
+    sass_dir: _sass
+    style: compressed
 
-# Google Analytics
-#google-analytics: UA-XXXXX-Y
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
 
-# Social Links
-email:             mariojay@terpmail.umd.edu
-#google.plus:        username
-#twitter:            username
-#facebook:           username
-github:             MarioJayakumar
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          mario-jayakumar
-#xing:              username
-#instagram:          username
-#lastfm:            username
-#tumblr:            username
-#pinterest:         username
-#foursquare:        username
-#steam:              username
-#dribbble:          username
-#youtube:           username
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
-#behance:           username
-
-# Gems
-gems:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
-
-# Exclude list
-include: [_pages]
-exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile, .sass-cache, .DS_Store]
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
